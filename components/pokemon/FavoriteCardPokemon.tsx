@@ -1,5 +1,4 @@
 import { FC } from "react";
-
 import { useRouter } from "next/router";
 import { Card, Grid } from "@nextui-org/react";
 
